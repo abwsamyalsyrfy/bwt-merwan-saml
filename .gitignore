@@ -1,0 +1,9 @@
+.env
+service-account.json
+firebase-key.json
+venv/
+.venv/
+__pycache__/
+*.pyc
+bot_data/user_persistence.pkl
+.firebase/

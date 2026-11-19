@@ -1,0 +1,4 @@
+python-telegram-bot[job-queue]==21.0.1
+firebase-admin==6.5.0
+firebase-functions==0.2.0
+python-dotenv==0.21.0
